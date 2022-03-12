@@ -1,0 +1,21 @@
+#character-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.character-card {
+    width: 200px;
+    background: lightblue;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+.hide {
+    display: none;
+
+}
+
+.show{
+    display: block;
+}
